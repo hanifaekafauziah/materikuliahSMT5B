@@ -30,7 +30,7 @@ Mahasiswa mampu :
 ### Langkah 3 : Bottom Tab Navigation ###
 1. Instalasi Pustaka Bottom Tabs
 npm install @react-navigation/bottom-tabs
-2. Membuat File Layar (Screens) Buat dua file baru di dalam folder screens: Login.js dan Signup.js.
+2. Membuat File Layar (Screens) Buat dua file baru di dalam folder screens: HomeScreen.js dan ProfileScreen.js.
 3. Konfigurasi Tab di `App.js` Ubah isi `App.js`
 4. Konfirmasi Bukti
 
@@ -38,8 +38,8 @@ npm install @react-navigation/bottom-tabs
 
 ### Langkah 4 : Drawer Navigation ###
 1. Instalasi Pustaka Drawer npm install @react-navigation/drawer
-# Pastikan juga plugin reanimated sudah terinstall dan dikonfigurasi di babel.config.js jika diperlukan
+    Pastikan juga plugin reanimated sudah terinstall dan dikonfigurasi di babel.config.js jika diperlukan
 2. Konfigurasi Drawer di `App.js` Ubah kembali file `App.js` untuk mencoba Drawer Navigation menggunakan layar Home dan Profile yang sudah dibuat sebelumnya
 3. Konfirmasi Bukti
 
-    <img src = "homescreen_profilescreen.gif" width = "15%">
+    <img src = "Drawer-Navigation.gif" width = "15%">
