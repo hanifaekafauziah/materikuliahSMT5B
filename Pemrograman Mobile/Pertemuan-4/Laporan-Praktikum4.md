@@ -44,8 +44,7 @@ npm install @react-navigation/bottom-tabs
 3. Konfirmasi Bukti
 
     <img src = "Drawer-Navigation.gif" width = "15%">
-=======
-   Pastikan juga plugin reanimated sudah terinstall dan dikonfigurasi di babel.config.js jika diperlukan
+    
 3. Konfigurasi Drawer di `App.js` Ubah kembali file `App.js` untuk mencoba Drawer Navigation menggunakan layar Home dan Profile yang sudah dibuat sebelumnya
 4. Konfirmasi Bukti
 
