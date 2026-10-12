@@ -38,8 +38,16 @@ npm install @react-navigation/bottom-tabs
 
 ### Langkah 4 : Drawer Navigation ###
 1. Instalasi Pustaka Drawer npm install @react-navigation/drawer
+<<<<<<< HEAD
     Pastikan juga plugin reanimated sudah terinstall dan dikonfigurasi di babel.config.js jika diperlukan
 2. Konfigurasi Drawer di `App.js` Ubah kembali file `App.js` untuk mencoba Drawer Navigation menggunakan layar Home dan Profile yang sudah dibuat sebelumnya
 3. Konfirmasi Bukti
 
     <img src = "Drawer-Navigation.gif" width = "15%">
+=======
+   Pastikan juga plugin reanimated sudah terinstall dan dikonfigurasi di babel.config.js jika diperlukan
+3. Konfigurasi Drawer di `App.js` Ubah kembali file `App.js` untuk mencoba Drawer Navigation menggunakan layar Home dan Profile yang sudah dibuat sebelumnya
+4. Konfirmasi Bukti
+
+    <img src = "homescreen_profilescreen.gif" width = "15%">
+>>>>>>> f6d4c10c37dee6887871a003ae1381c18893afd9
