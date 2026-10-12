@@ -50,4 +50,3 @@ npm install @react-navigation/bottom-tabs
 4. Konfirmasi Bukti
 
     <img src = "homescreen_profilescreen.gif" width = "15%">
->>>>>>> f6d4c10c37dee6887871a003ae1381c18893afd9
